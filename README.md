@@ -1,4 +1,4 @@
-# CareChronical – Wound Care with AI
+# CareChronicle – Wound Care with AI
 
 ## Academic Project Notice
 
