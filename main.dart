@@ -12,9 +12,9 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: FirebaseOptions(
-      apiKey: "AIzaSyDNkdPkr7UoZXfHPNtg3xCujo9rG36abtY",
-      appId: "1:799706608096:android:db73a6b023d8fa1a967b85",
-      messagingSenderId: "799706608096",
+      apiKey: "",
+      appId: "",
+      messagingSenderId: "",
       projectId: "wound-care-ai",
       storageBucket: "wound-care-ai.firebasestorage.app",
       authDomain: "wound-care-ai.firebaseapp.com",
@@ -61,3 +61,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
